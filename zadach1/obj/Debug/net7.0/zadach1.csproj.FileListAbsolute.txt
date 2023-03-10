@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\obj\Debug\net7.0\zadach1.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\obj\Debug\net7.0\zadach1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\obj\Debug\net7.0\zadach1.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\obj\Debug\net7.0\zadach1.AssemblyInfo.cs
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\obj\Debug\net7.0\zadach1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\bin\Debug\net7.0\zadach1.exe
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\bin\Debug\net7.0\zadach1.deps.json
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\bin\Debug\net7.0\zadach1.runtimeconfig.json
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\bin\Debug\net7.0\zadach1.dll
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\bin\Debug\net7.0\zadach1.pdb
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\obj\Debug\net7.0\zadach1.dll
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\obj\Debug\net7.0\refint\zadach1.dll
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\obj\Debug\net7.0\zadach1.pdb
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\obj\Debug\net7.0\zadach1.genruntimeconfig.cache
+C:\Users\1\Desktop\Курсы IT\Zadachi\zadach1\obj\Debug\net7.0\ref\zadach1.dll
